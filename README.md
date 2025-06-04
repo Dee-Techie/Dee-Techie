@@ -22,7 +22,7 @@ Here's a sneak peek at what I'm working on:
 | [`Risk Assessment/`](https://github.com/Dee-Techie/Cybersecurity-Portfolio/tree/main/Risk-Assessments) | Risk register templates, threat matrices, sample assessments |
 | [`Security Policies/`](https://github.com/Dee-Techie/Cybersecurity-Portfolio/tree/main/Security-Policies) | Sample password policies, acceptable use, incident response |
 | [`Certificates and Badges/`](https://github.com/Dee-Techie/Cybersecurity-Portfolio/tree/main/Certificates%20and%20Badges) | Proof of learning from TryHackMe, Google, Cisco, and more |
-| [`Tryhackme writeups/`](https://github.com/Dee-Techie/Cybersecurity-Portfolio/tree/main/Tryhackme-Writeups) | Write-ups for THM rooms and walkthroughs |
+| [`Write-ups/`](https://github.com/Dee-Techie/Cybersecurity-Portfolio/tree/main/Write-Ups) | Write-ups for THM rooms and walkthroughs |
 
 ---
 
