@@ -1,6 +1,7 @@
 # 🛡️ My Cybersecurity Portfolio
 
-> *"Learning by breaking, defending by building."* — Me, figuring out how to be awesome in cybersecurity
+> "From bytes broken to firewalls forged — this is my cybersecurity story in the making."
+
 
 ---
 
