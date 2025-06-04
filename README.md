@@ -17,7 +17,7 @@ Here's a sneak peek at what I'm working on:
 
 | 📂 Folder | 🔍 Contents |
 |----------|-------------|
-| [`Labs/`](./Labs/) | Packet captures, SIEM labs, malware traffic analysis |
+| [`Labs/`](https://github.com/Dee-Techie/Cybersecurity-Portfolio/tree/main/Labs) | Packet captures, SIEM labs, malware traffic analysis |
 | [`Scripts/`](./Scripts/) | Python, PowerShell & Bash scripts for blue team automation |
 | [`Risk Assessment/`](./Risk%20Assessment/) | Risk register templates, threat matrices, sample assessments |
 | [`Security Policies/`](./Security%20Policies/) | Sample password policies, acceptable use, incident response |
