@@ -17,12 +17,12 @@ Here's a sneak peek at what I'm working on:
 
 | 📂 Folder | 🔍 Contents |
 |----------|-------------|
+| [`Write-ups/`](https://github.com/Dee-Techie/Cybersecurity-Portfolio/blob/main/Write-Ups/README.md) | Write-ups for THM rooms and walkthroughs |
 | [`Labs/`](https://github.com/Dee-Techie/Cybersecurity-Portfolio/blob/main/Labs/README.md) | Packet captures (PCAP), SIEM labs, malware traffic analysis |
 | [`Scripts/`](https://github.com/Dee-Techie/Cybersecurity-Portfolio/tree/main/Scripts) | Python, PowerShell & Bash scripts for blue team automation |
 | [`Risk Assessment/`](https://github.com/Dee-Techie/Cybersecurity-Portfolio/tree/main/Risk-Assessments) | Risk register templates, threat matrices, sample assessments |
 | [`Security Policies/`](https://github.com/Dee-Techie/Cybersecurity-Portfolio/tree/main/Security-Policies) | Sample password policies, acceptable use, incident response |
 | [`Certificates and Badges/`](https://github.com/Dee-Techie/Cybersecurity-Portfolio/tree/main/Certificates%20and%20Badges) | Proof of learning from TryHackMe, Google, Cisco, and more |
-| [`Write-ups/`](https://github.com/Dee-Techie/Cybersecurity-Portfolio/blob/main/Write-Ups/README.md) | Write-ups for THM rooms and walkthroughs |
 
 ---
 
