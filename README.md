@@ -1,7 +1,6 @@
 # 🛡️ My Cybersecurity Portfolio
 
-> "From bytes broken to firewalls forged — this is my cybersecurity story in the making."
-
+> "Former IT firefighter—now chasing threats instead of putting out tickets."
 
 ---
 
