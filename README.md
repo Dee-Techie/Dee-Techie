@@ -1,12 +1,16 @@
 # 🛡️ My Cybersecurity Portfolio
 
-> "Former IT firefighter—now chasing threats instead of putting out tickets."
+> "Former IT firefighter — now chasing threats instead of putting out tickets."
 
 ---
 
-## 👋 Hey there! I'm Dee.
+## 👋 Hey there! I'm Dee — a former IT Ops lead turning cyber defender.
 
-I'm transitioning into cybersecurity and documenting everything I learn along the way. This repo is my digital playground — a living portfolio of labs, policies, write-ups, and tools I’ve built while preparing for roles like SOC Analyst, GRC Analyst, and Blue Team Defender 💥
+After 5+ years of firefighting in the world of tech support, systems, and service delivery, I’m pivoting into cybersecurity with purpose (and a bit of caffeine-fueled obsession).
+
+This repo is where I log my progress: hands-on labs, blue team tools, GRC experiments, and battle notes from the front lines of my learning. I'm building toward roles like SOC Analyst, GRC Analyst, or wherever the next alert leads.
+
+Welcome to the messy, curious, and slightly nerdy side of my transition. 💥
 
 ---
 
