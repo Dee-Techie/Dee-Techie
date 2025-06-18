@@ -17,7 +17,7 @@ Here's a sneak peek at what I'm working on:
 
 | 📂 Folder | 🔍 Contents |
 |----------|-------------|
-| [`Write-ups/`](https://github.com/Dee-Techie/Cybersecurity-Portfolio/blob/main/Write-Ups/README.md) | From clueless to curious — documenting the grind behind the growth |
+| [`Write-ups/`](https://github.com/Dee-Techie/Cybersecurity-Portfolio/blob/main/Write-Ups/README.md) | From clueless to curious — documenting the grind behind my growth |
 | [`Labs/`](https://github.com/Dee-Techie/Cybersecurity-Portfolio/blob/main/Labs/README.md) | Packet captures (PCAP), SIEM labs, malware traffic analysis |
 | [`Scripts/`](https://github.com/Dee-Techie/Cybersecurity-Portfolio/tree/main/Scripts) | Python, PowerShell & Bash scripts for blue team automation |
 | [`Risk Assessment/`](https://github.com/Dee-Techie/Cybersecurity-Portfolio/tree/main/Risk-Assessments) | Risk register templates, threat matrices, sample assessments |
