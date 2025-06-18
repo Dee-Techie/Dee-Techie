@@ -36,7 +36,7 @@ Here's a sneak peek at what I'm working on:
 ✅ Risk & Compliance (GRC)  
 ✅ Policy Writing  
 ✅ Python & Bash Basics  
-✅ GitHub Fluency 🚧
+✅ GitHub Fluency
 
 ---
 
