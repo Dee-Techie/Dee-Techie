@@ -40,19 +40,6 @@ Here's a sneak peek at what I'm working on:
 
 ---
 
-## 🎯 2025 Goals
-
-- ✅ Build a cybersecurity portfolio that speaks louder than a resumé
-- 💻 Complete 30+ TryHackMe rooms (and write funny-but-informative walkthroughs)
-- 🔐 Master at least 3 SIEM tools without throwing my laptop out the window
-- 💬 Contribute to the community by sharing labs, write-ups, and tools
-- 🧠 Master the fundamentals of blue teaming, threat detection, and GRC frameworks
-- 🧑‍💻 Land a cybersecurity role where I can defend, document, and dig into real-world threats
-- 🛠️ Create at least 2 custom tools/scripts to automate repetitive security tasks
-- 😎 Have fun while learning — because security shouldn’t be boring!
-
----
-
 ## 💬 Let’s Connect!
 
 If you're a recruiter, mentor, or fellow learner — feel free to drop me a message!
