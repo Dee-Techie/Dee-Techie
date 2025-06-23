@@ -29,6 +29,9 @@ Here's a sneak peek at what I'm working on:
 
 ---
 
+## Important ecternal links:
+MITRE [STARTER KIT](https://engage.mitre.org/starter-kit/)
+
 ## 🧠 My Current Skills
 
 ✅ Blue Team Concepts  
