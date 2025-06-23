@@ -30,7 +30,8 @@ Here's a sneak peek at what I'm working on:
 ---
 
 ## 🙅‍♂️ Important external links:
-MITRE [STARTER KIT](https://engage.mitre.org/starter-kit/)
+- MITRE [Starter Kit](https://engage.mitre.org/starter-kit/)
+- MITRE [Tools](https://engage.mitre.org/tools/)
 
 ## 🧠 My Current Skills
 
