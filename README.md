@@ -32,6 +32,8 @@ Here's a sneak peek at what I'm working on:
 ## 🙅‍♂️ Important external links:
 - MITRE [Starter Kit](https://engage.mitre.org/starter-kit/)
 - MITRE [Tools](https://engage.mitre.org/tools/)
+- Cloud [Security Tools](https://cloud.google.com/security/resources)
+- Threat Research [Unit42](https://unit42.paloaltonetworks.com/category/threat-research/) & [Recorded Future](https://www.recordedfuture.com/resources)
 
 ## 🧠 My Current Skills
 
