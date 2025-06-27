@@ -17,12 +17,12 @@ Welcome to the messy, curious, and slightly nerdy side of my transition. 💥
 ## 🏅 [TryHackMe](https://tryhackme.com/p/deetechie27) Badges
 
 <p align="center">
-<img src="https://tryhackme.com/img/badges/cyberthreatintellegenceblue.svg" alt="CTI Rare Badge" width="150"/>  
-<img src="https://tryhackme.com/img/badges/cyberdefenceframework.svg" alt="Cyber Defence Framework Badge" width="150"/>  
-<img src="https://tryhackme.com/img/badges/introtooffensivesecurity.svg" alt="Offensive Security Badge" width="150"/>  
-<img src="https://tryhackme.com/img/badges/linux.svg" alt="Linux Badge" width="150"/>  
-<img src="https://tryhackme.com/img/badges/networkfundamentals.svg" alt="Network Badge" width="150"/>  
-<img src="https://tryhackme.com/img/badges/howthewebworks.svg" alt="Web Works Badge" width="150"/>  
+<img src="https://tryhackme.com/img/badges/cyberthreatintellegenceblue.svg" alt="CTI Rare Badge" width="100"/>  
+<img src="https://tryhackme.com/img/badges/cyberdefenceframework.svg" alt="Cyber Defence Framework Badge" width="100"/>  
+<img src="https://tryhackme.com/img/badges/introtooffensivesecurity.svg" alt="Offensive Security Badge" width="100"/>  
+<img src="https://tryhackme.com/img/badges/linux.svg" alt="Linux Badge" width="100"/>  
+<img src="https://tryhackme.com/img/badges/networkfundamentals.svg" alt="Network Badge" width="100"/>  
+<img src="https://tryhackme.com/img/badges/howthewebworks.svg" alt="Web Works Badge" width="100"/>  
 
 ---
 
