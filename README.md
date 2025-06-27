@@ -14,6 +14,17 @@ Welcome to the messy, curious, and slightly nerdy side of my transition. 💥
 
 ---
 
+## 🧠 My TryHackMe Badges
+_This section updates daily based on my public TryHackMe profile_
+
+[View my TryHackMe Profile](https://tryhackme.com/p/deetechie27)
+
+📛 Current Badges:
+<!-- Auto-updated -->
+[badges.md](./badges.md)
+
+---
+
 ## 🚀 What's Inside?
 
 Here's a sneak peek at what I'm working on:
