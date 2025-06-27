@@ -14,7 +14,7 @@ Welcome to the messy, curious, and slightly nerdy side of my transition. 💥
 
 ---
 
-## 🏅 [TryHackMe](https://tryhackme.com/p/deetechie27) Badges
+## 🏅 TryHackMe Badges — [@deetechie27](https://tryhackme.com/p/deetechie27)
 
 <p align="center">
 <img src="https://tryhackme.com/img/badges/cyberthreatintellegenceblue.svg" alt="CTI Rare Badge" width="100"/>  
@@ -23,6 +23,7 @@ Welcome to the messy, curious, and slightly nerdy side of my transition. 💥
 <img src="https://tryhackme.com/img/badges/linux.svg" alt="Linux Badge" width="100"/>  
 <img src="https://tryhackme.com/img/badges/networkfundamentals.svg" alt="Network Badge" width="100"/>  
 <img src="https://tryhackme.com/img/badges/howthewebworks.svg" alt="Web Works Badge" width="100"/>  
+
 
 ---
 
