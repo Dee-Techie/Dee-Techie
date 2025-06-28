@@ -16,8 +16,6 @@ Welcome to the messy, curious, and slightly nerdy side of my transition. 💥
 
 ## 🏅 TryHackMe Badges — [@deetechie27](https://tryhackme.com/p/deetechie27)
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4737745" style='border:none;'></iframe>
-
 <p align="center">
 <img src="https://tryhackme.com/img/badges/cyberthreatintellegenceblue.svg" alt="CTI Rare Badge" width="100"/>  
 <img src="https://tryhackme.com/img/badges/cyberdefenceframework.svg" alt="Cyber Defence Framework Badge" width="100"/>  
