@@ -36,9 +36,8 @@ Here's a sneak peek at what I'm working on:
 | [`Write-ups/`](https://github.com/Dee-Techie/Cybersecurity-Portfolio/blob/main/Write-Ups/README.md) | From clueless to curious — documenting the grind behind my growth |
 | [`Labs/`](https://github.com/Dee-Techie/Cybersecurity-Portfolio/blob/main/Labs/README.md) | Packet captures (PCAP), SIEM labs, malware traffic analysis |
 | [`Scripts/`](https://github.com/Dee-Techie/Cybersecurity-Portfolio/blob/main/Scripts/scripts.md) | Python, PowerShell & Bash scripts for blue team automation |
+| [`Playbooks & Security Policies/`](https://github.com/Dee-Techie/Cybersecurity-Portfolio/tree/main/Security-Policies) | Sample password policies, acceptable use, incident response |
 | [`Risk Assessment/`](https://github.com/Dee-Techie/Cybersecurity-Portfolio/tree/main/Risk-Assessments) | Risk register templates, threat matrices, sample assessments |
-| [`Security Policies/`](https://github.com/Dee-Techie/Cybersecurity-Portfolio/tree/main/Security-Policies) | Sample password policies, acceptable use, incident response |
-| [`Certificates and Badges/`](https://github.com/Dee-Techie/Cybersecurity-Portfolio/tree/main/Certificates%20and%20Badges) | Proof of learning from TryHackMe, Google, Cisco, and more |
 
 ---
 
@@ -54,8 +53,8 @@ Here's a sneak peek at what I'm working on:
 ✅ SIEM & Log Analysis  
 ✅ Risk & Compliance (GRC)  
 ✅ Policy Writing  
-✅ Python & Bash Basics  
-✅ GitHub Fluency
+✅ Python & Bash  
+✅ GitHub 
 
 ---
 
