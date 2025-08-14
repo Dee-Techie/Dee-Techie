@@ -15,7 +15,7 @@ Welcome to the messy, curious, and slightly nerdy side of my transition. 💥
 ---
 
 ## 🗝️🕵️‍♂️ CompTIA Security+ Badge
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="22dd924b-9fe1-4c8e-a508-901666fa3793" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<img width="601" height="601" alt="comptia-security-ce-certification" src="https://github.com/user-attachments/assets/43d0a3f2-e971-4a46-9ab6-9dc70587c753" />
 
 ## 🏅 TryHackMe Badges — [@deetechie27](https://tryhackme.com/p/deetechie27)
 
