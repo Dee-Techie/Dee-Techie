@@ -14,12 +14,10 @@ Welcome to the messy, curious, and slightly nerdy side of my transition. 💥
 
 ---
 
-## 🗝️🕵️‍♂️ CompTIA Security+ Badge
-<img width="601" height="601" alt="comptia-security-ce-certification" src="https://github.com/user-attachments/assets/43d0a3f2-e971-4a46-9ab6-9dc70587c753" />
-
-## 🏅 TryHackMe Badges — [@deetechie27](https://tryhackme.com/p/deetechie27)
+## 🏅 My Badges of honour — [@deetechie27](https://tryhackme.com/p/deetechie27)
 
 <p align="center">
+<img width="116" height="116" alt="comptia-security-ce-certification" src="https://github.com/user-attachments/assets/43d0a3f2-e971-4a46-9ab6-9dc70587c753" />
 <img src="https://tryhackme.com/img/badges/phishing.svg" alt="Phishing Rare Badge" width="100"/>  
 <img src="https://tryhackme.com/img/badges/cyberthreatintellegenceblue.svg" alt="CTI Rare Badge" width="100"/>  
 <img src="https://tryhackme.com/img/badges/cyberdefenceframework.svg" alt="Cyber Defence Framework Badge" width="100"/>  
