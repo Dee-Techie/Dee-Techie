@@ -2,15 +2,17 @@
 
 > "Former IT firefighter — now chasing threats instead of putting out tickets."
 
+## 🚀 About Me  
+After **10+ years** across IT support management, tech project leadership, QA, and freelance IT work, I’m now channeling my expertise into **cybersecurity** with focus, persistence, and (let’s be honest) a caffeine-fueled obsession. ☕
+
 ---
 
-## 👋 Hey there! I'm Dee — a former IT Ops lead turning cyber defender.
+## 🎯 Career Goal  
+Building toward roles like **SOC Analyst** or **GRC Analyst** — where I can combine my operational expertise with a defender’s mindset to protect systems, data, and people.
 
-After 5+ years of firefighting in the world of tech support, systems, and service delivery, I’m pivoting into cybersecurity with purpose (and a bit of caffeine-fueled obsession).
+---
 
-This repo is where I log my progress: hands-on labs, blue team tools, GRC experiments, and battle notes from the front lines of my learning. I'm building toward roles like SOC Analyst, GRC Analyst, or wherever the next alert leads.
-
-Welcome to the messy, curious, and slightly nerdy side of my transition. 💥
+💥 _Welcome to the curious, hands-on, and slightly nerdy side of my journey into cyber defense._  
 
 ---
 
@@ -48,16 +50,6 @@ Here's a sneak peek at what I'm working on:
 - MITRE [Tools](https://engage.mitre.org/tools/)
 - Cloud [Security Tools](https://cloud.google.com/security/resources)
 - Threat Research [Unit42](https://unit42.paloaltonetworks.com/category/threat-research/) & [Recorded Future](https://www.recordedfuture.com/resources)
-
-## 🧠 My Current Skills
-
-✅ Blue Team Concepts  
-✅ SIEM & Log Analysis  
-✅ Risk & Compliance (GRC)  
-✅ Policy Writing  
-✅ Python & Bash  
-✅ GitHub 
-
 ---
 
 ## 💬 Let’s Connect!
